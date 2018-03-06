@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\bin\Debug\netcoreapp1.1\WeceptionalDesignApp.deps.json
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\bin\Debug\netcoreapp1.1\WeceptionalDesignApp.runtimeconfig.json
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\bin\Debug\netcoreapp1.1\WeceptionalDesignApp.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\bin\Debug\netcoreapp1.1\WeceptionalDesignApp.dll
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\bin\Debug\netcoreapp1.1\WeceptionalDesignApp.pdb
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\obj\Debug\netcoreapp1.1\WeceptionalDesignApp.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\obj\Debug\netcoreapp1.1\WeceptionalDesignApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\obj\Debug\netcoreapp1.1\WeceptionalDesignApp.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\obj\Debug\netcoreapp1.1\WeceptionalDesignApp.AssemblyInfo.cs
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\obj\Debug\netcoreapp1.1\WeceptionalDesignApp.dll
+C:\Users\danie\Desktop\Webceptional\Sln\WeceptionalDesignApp\WeceptionalDesignApp\obj\Debug\netcoreapp1.1\WeceptionalDesignApp.pdb
